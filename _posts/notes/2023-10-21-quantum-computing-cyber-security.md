@@ -2,6 +2,7 @@
 layout: post
 title:  "Quantum Computing: The Next Frontier in Cybersecurity"
 category: Notes
+tags: [cybersecurity, quantum computing]
 ---
 
 
