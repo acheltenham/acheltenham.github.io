@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
   Whether you're a fellow tech enthusiast or curious explorer, discover insights, tools, and inspiration to fuel your tech journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://cheltenham.dev" # the base hostname & protocol for your site
 
 github:
   username: acheltenham # change to your github username
@@ -49,7 +49,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google-site-verification=Fnz3dvhZzaglMUGBAEDcznp6vCbEe4LqcwRmmuyToaY # fill in to your verification string
+google_site_verification: Fnz3dvhZzaglMUGBAEDcznp6vCbEe4LqcwRmmuyToaY # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
