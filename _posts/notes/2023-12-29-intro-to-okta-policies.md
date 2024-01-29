@@ -6,8 +6,7 @@ tags: [okta, access controls]
 ---
 
 ![Okta Policy Blog Image](/assets/img/okta-policies-intro.jpg)
-
-Greetings, fellow tech enthusiasts and digital security aficionados! 👋 
+ 
 Today, I would like to explore the fascinating world of Okta Policies. These policies are not just ordinary features but the foundation of identity and access management within the Okta ecosystem. 
 
 Join me as we delve into the intricacies of Okta Policies. Whether you are a seasoned security professional or a beginner in digital security, this series will guide you on effectively protecting and managing your online assets.

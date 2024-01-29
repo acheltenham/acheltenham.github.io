@@ -8,9 +8,7 @@ tags: [cybersecurity, quantum computing]
 
 ![Backpack Blog Image](/assets/img/quantum_cybersec.jpg)
 
-## Introduction
-
-Hey there, tech enthusiasts! 🚀 Ever heard of quantum computing? If you're scratching your head, don't worry—you're not alone. But here's the deal: quantum computing is innovative, fast, and a game-changer like the Tony Stark of the computing world. And just like Iron Man has his vulnerabilities (looking at you, Thanos), quantum computing poses severe threats to our digital universe. So, please grab a cup of coffee, and let's dive into why quantum computing is the next frontier in cybersecurity.
+Ever heard of quantum computing? If you're scratching your head, don't worry—you're not alone. But here's the deal: quantum computing is innovative, fast, and a game-changer like the Tony Stark of the computing world. And just like Iron Man has his vulnerabilities (looking at you, Thanos), quantum computing poses severe threats to our digital universe. So, please grab a cup of coffee, and let's dive into why quantum computing is the next frontier in cybersecurity.
 What is Quantum Computing?
 Let's break it down. Traditional computing uses bits, either a 0 or a 1. Quantum computing, on the other hand, uses quantum bits or qubits. These qubits can exist in multiple states at once, thanks to the principles of quantum mechanics. Imagine being in two places simultaneously; that's what qubits can do! This ability to be in multiple states allows quantum computers to perform complex calculations at speeds that would make Usain Bolt look slow.
 But here's the kicker: this isn't just some sci-fi fantasy. Companies like IBM and Google are already making strides in the field. They're not just building quantum computers but also exploring how these machines can solve real-world problems—from drug discovery to climate modelling.

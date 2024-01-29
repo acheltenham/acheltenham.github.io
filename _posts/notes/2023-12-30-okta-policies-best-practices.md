@@ -7,7 +7,7 @@ tags: [okta, access controls]
 
 ![Okta Policies Best Practices Blog Image](/assets/img/bp-intro.jpg)
 
-Hey there, fellow tech warriors and cybersecurity enthusiasts! 👋 It's Tonio, back in the cyber trenches, to explore the critical world of secure configurations in identity and access management. In today's digital age, where threats lurk in every corner of the Internet, configuring your security settings isn't just a routine task – it's your digital armour. Our focus today? 
+Hey friends, I would to explore the critical world of secure configurations in identity and access management. In today's digital age, where threats lurk in every corner of the Internet, configuring your security settings isn't just a routine task – it's your digital armour. Our focus today? 
 You are zooming into the best practices for configuring Okta Policies to bolster this armor and protect your digital empire.
 
 ## Understanding the Need for Secure Configuration
