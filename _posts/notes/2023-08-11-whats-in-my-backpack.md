@@ -2,13 +2,12 @@
 layout: post
 title:  "Tools of the Trade: What is in my backpack?"
 category: Notes
+tags: [career, about me]
 ---
 
 ![Backpack Blog Image](/assets/img/backpack_blog.jpg)
 
-## Introduction
-
-Hey there, tech enthusiasts and fellow security aficionados! 👋 As a Staff Security Engineer, I've realized that my most powerful assets aren't just the physical tools I carry—it is also the skills and knowledge I've accumulated over years of diving deep into the intricate world of IT and Security.
+As a Staff Security Engineer, I've realized that my most powerful assets aren't just the physical tools I carry—it is also the skills and knowledge I've accumulated over years of diving deep into the intricate world of IT and Security.
 
 In this article, I'm excited to open up my "security backpack" and share the essential software, tools, code snippets, and intangible treasures fueling my expertise. Whether you're a fellow security professional, a curious coder, or just someone eager to explore the realm of digital security, you're about to uncover the keys to navigating this dynamic landscape.
 
